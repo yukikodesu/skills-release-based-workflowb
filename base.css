@@ -105,8 +105,8 @@ nav,
 section {
   display: block;
 }
-body {
-  /* Add background-color declaration here */
+  body {
+    background-color: black;
 }
 ol,
 ul {
@@ -126,6 +126,7 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+   
 }
 
 /* Center the container */
